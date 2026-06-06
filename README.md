@@ -29,3 +29,6 @@ If you want to visualize the results from the log run
 ```
 python read_llm_logs.py
 ```
+
+## Notes
+The [ppo_tests](ppo_tests) folder and the ppo implementation in [rl](rl) folder were used for preliminary tests but not used in the project in the end. Anyway I left there the code for completeness.
