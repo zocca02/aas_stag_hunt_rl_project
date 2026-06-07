@@ -1,0 +1,4 @@
+numpy==2.4.3
+torch==2.11.0+cpu
+gymnasium==1.2.3
+matplotlib==3.10.8
